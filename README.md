@@ -1,6 +1,6 @@
-f you use borehole-pyopencl code in your research, we would appreciate the citation of the following article:
-
 ###Borehole-pyopencl
+
+if you use borehole-pyopencl code in your research, we would appreciate the citation of the following article:
 
 **"Simulation of sonic waves along a borehole in heterogeneous formation: Accelerating 2.5-D finite differences using PyOpenCL"**, Ursula Iturrarán-Viveros, Miguel Molero, Computer & Geosciences 56, 2013, 161-169
 
