@@ -16,22 +16,26 @@ ____
 
 Some examples:
 
-  - Monopolar source and a fast formation around the fluid-filled borehole. 
+  - Monopolar source and a fast formation around the fluid-filled borehole
   
-   <a href="http://www.youtube.com/watch?feature=player_embedded&v=ieVFxDvveDQ
-   " target="_blank"><img src="http://img.youtube.com/vi/ieVFxDvveDQ/0.jpg" 
-   alt="Monopolar source and a fast formation around the fluid-filled borehole"    width="240" height="240" border="10" /></a>  
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ieVFxDvveDQ
+  " target="_blank"><img src="http://img.youtube.com/vi/ieVFxDvveDQ/0.jpg" 
+  alt="Monopolar source and a fast formation around the fluid-filled borehole"    
+  width="240" height="240" border="10" /></a>  
 
-   - Monopolar source and a slow formation around the fluid-filled borehole
-   <a href="http://www.youtube.com/watch?feature=player_embedded&v=8OMLNzg79sI
-   " target="_blank"><img src="http://img.youtube.com/vi/8OMLNzg79sI/0.jpg" 
-   alt="Monopolar source and a slow formation around the fluid-filled borehole"    width="240" height="240" border="10" /></a>
+  - Monopolar source and a slow formation around the fluid-filled borehole
+  
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=8OMLNzg79sI
+  " target="_blank"><img src="http://img.youtube.com/vi/8OMLNzg79sI/0.jpg" 
+  alt="Monopolar source and a slow formation around the fluid-filled borehole"    
+  width="240" height="240" border="10" /></a>
 
   - Monopolar source and a fast formation around the fluid-filled borehole and the borehole is intercepted by a slow       layer 
   
-   <a href="http://www.youtube.com/watch?feature=player_embedded&v=HxPb6lMvvpY
-   " target="_blank"><img src="http://img.youtube.com/vi/HxPb6lMvvpY/0.jpg" 
-   alt="Monopolar source and a fast formation around the fluid-filled borehole and the borehole is intercepted by a slow layer"    width="240" height="240" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=HxPb6lMvvpY
+  " target="_blank"><img src="http://img.youtube.com/vi/HxPb6lMvvpY/0.jpg" 
+  alt="Monopolar source and a fast formation around the fluid-filled borehole and the borehole is intercepted by a slow    layer"    
+  width="240" height="240" border="10" /></a>
   
 
 ___
